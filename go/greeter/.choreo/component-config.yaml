@@ -36,7 +36,7 @@ spec:
     serviceReferences:
       # +required Name of the service reference.
     - name: choreo:///apifirst/ygtd/xmsjqn/5c69c/v1.0/PUBLIC
-      connectionConfig: 01ee7b1c-ef59-1bb0-871b-787a727f0190
+      connectionConfig: 01ee7be4-6ad2-16fe-8cea-2d5a94cb8787
       env:
       - from: ServiceURL
         to: LOYALTY_API_URL
